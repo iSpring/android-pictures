@@ -1,5 +1,5 @@
 android-pictures
-======
+==========
 
 A bundle of SVG pictures that demonstrate how Andriod works.
 
