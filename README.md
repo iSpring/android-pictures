@@ -1,7 +1,7 @@
 android-pictures
 ==========
 
-A bundle of SVG pictures that demonstrate how Andriod works.
+A bundle of pictures that demonstrate how Andriod works.
 
 Note
 --------
@@ -9,7 +9,7 @@ Most SVG DOM nodes have a link pointing to Android source code. But you can't cl
 
 Pictures
 --------
- - AppStart.svg shows the main process when app start up.
+ - AppStart shows the main process when app start up.
    
 
 Screenshot
