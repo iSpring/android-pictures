@@ -9,4 +9,6 @@ Most SVG DOM nodes have a link pointing to Android source code. But you can't cl
 
 Screenshot
 --------
-![alt tag](https://raw.githubusercontent.com/iSpring/android-pictures/master/ZygoteInit.svg)
+Here is a demo screenshot.
+
+<img src="https://github.com/iSpring/android-pictures/blob/master/screenshot.png" />
